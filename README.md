@@ -1,8 +1,11 @@
-
 ## Project Topic: Image captioning using RNN
 ### Team Name: Sleepy Heads
 
-<img display="inline" width ="100%" src=""> 
+### Input
+<img display="inline" style="width:500px;height:auto;" src="https://i.imgur.com/NziP9Wg.jpg"> 
+
+###Output
+<img display="inline" style="width:500px;height:auto;" src="https://i.imgur.com/pz9T4FU.jpg"> 
 
 ### Explaination:
  
