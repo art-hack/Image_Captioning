@@ -4,7 +4,7 @@
 ### Input
 <img display="inline" style="width:500px;height:auto;" src="https://i.imgur.com/NziP9Wg.jpg"> 
 
-###Output
+### Output
 <img display="inline" style="width:500px;height:auto;" src="https://i.imgur.com/pz9T4FU.jpg"> 
 
 ### Explaination:
