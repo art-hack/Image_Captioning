@@ -11,9 +11,11 @@
 ### Model download
 ```
 wget https://doc-0k-bc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ugaptvtuqmpggkod3ofpbng8b5jsbnhf/1555293600000/15570688570768808365/*/1nMn__KLw8WMj_6SDRIH8AFfbaFX78mh7?e=download
-Place it in models/model directory
+Place it in models/model directory and rename it as model.npy
 ```
 
+To run the model use : python main.py --phase=test --model_file='./models/model/model.npy'  --beam_size=3
+Input files hould be kept in test/images
 
 
 ### Explaination:
